@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=native -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/order_book.dir/src/main.cpp.o CMakeFiles/order_book.dir/src/OrderBook.cpp.o CMakeFiles/order_book.dir/src/FIXParser.cpp.o CMakeFiles/order_book.dir/src/MatchingEngine.cpp.o CMakeFiles/order_book.dir/src/TCPServer.cpp.o -o order_book
